@@ -1,4 +1,4 @@
-# Task 2. Computer Vision. Keypoints matching on satellite photos.
+# Computer Vision. Keypoints matching on satellite photos.
 
 We need to train the model for choosing keypoints, matching keypoints and visualisation keypoints on a satellite photos. 
 
